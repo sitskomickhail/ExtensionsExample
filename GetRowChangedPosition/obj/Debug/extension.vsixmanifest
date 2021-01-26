@@ -1,0 +1,20 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="126c56af-f2cf-475f-a13a-d9d4c0254df3" Version="1.0" Language="en-US" Publisher="Mikhail Sitsko" />
+    <DisplayName>GetRowChangedPosition</DisplayName>
+    <Description xml:space="preserve">Empty VSIX Project.</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="GetRowChangedPosition.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="GetRowChangedPosition.dll" />
+  </Assets>
+</PackageManifest>

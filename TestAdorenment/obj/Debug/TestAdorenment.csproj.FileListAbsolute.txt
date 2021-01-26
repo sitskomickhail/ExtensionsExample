@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\bin\Debug\TestAdorenment.dll
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\bin\Debug\TestAdorenment.pdb
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\bin\Debug\TestAdorenment.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\bin\Debug\TestAdorenment.vsix
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\bin\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\_EmptyResource.resources
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.dll
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.pdb
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\TestAdorenment.latest.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\files.json
+C:\Users\user\source\repos\HelloWorldExtension\TestAdorenment\obj\Debug\createTemplateManifests.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\bin\Debug\TestClassifier.dll
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\bin\Debug\TestClassifier.pdb
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\bin\Debug\TestClassifier.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\bin\Debug\TestClassifier.vsix
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\bin\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\_EmptyResource.resources
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.dll
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.pdb
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\TestClassifier.latest.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\files.json
+C:\Users\user\source\repos\HelloWorldExtension\TestClassifier\obj\Debug\createTemplateManifests.cache

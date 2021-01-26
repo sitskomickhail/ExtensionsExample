@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldExtension", "HelloWorldExtension\HelloWorldExtension.csproj", "{8287AB34-6272-4E21-88AF-1005041F4E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAdorenment", "TestAdorenment\TestAdorenment.csproj", "{D8A21304-0320-44D9-981C-230AD26E4C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewportAdornment", "ViewportAdornment\ViewportAdornment.csproj", "{A1496F29-6085-44A6-8486-3DE51841987F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClassifier", "TestClassifier\TestClassifier.csproj", "{5A58AE15-6C2E-40F0-B1BA-D728D9C81A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyObjectPropertiesExtension", "MyObjectPropertiesExtension\MyObjectPropertiesExtension.csproj", "{54D0454D-2075-4B18-8819-F20872B42BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetRowChangedPosition", "GetRowChangedPosition\GetRowChangedPosition.csproj", "{048F7308-164E-4905-B277-3124157B7633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8287AB34-6272-4E21-88AF-1005041F4E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8287AB34-6272-4E21-88AF-1005041F4E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8287AB34-6272-4E21-88AF-1005041F4E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8287AB34-6272-4E21-88AF-1005041F4E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A21304-0320-44D9-981C-230AD26E4C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A21304-0320-44D9-981C-230AD26E4C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A21304-0320-44D9-981C-230AD26E4C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A21304-0320-44D9-981C-230AD26E4C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1496F29-6085-44A6-8486-3DE51841987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1496F29-6085-44A6-8486-3DE51841987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1496F29-6085-44A6-8486-3DE51841987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1496F29-6085-44A6-8486-3DE51841987F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A58AE15-6C2E-40F0-B1BA-D728D9C81A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A58AE15-6C2E-40F0-B1BA-D728D9C81A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A58AE15-6C2E-40F0-B1BA-D728D9C81A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A58AE15-6C2E-40F0-B1BA-D728D9C81A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D0454D-2075-4B18-8819-F20872B42BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D0454D-2075-4B18-8819-F20872B42BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D0454D-2075-4B18-8819-F20872B42BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D0454D-2075-4B18-8819-F20872B42BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048F7308-164E-4905-B277-3124157B7633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048F7308-164E-4905-B277-3124157B7633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048F7308-164E-4905-B277-3124157B7633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048F7308-164E-4905-B277-3124157B7633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F496637F-9860-49AE-A7A3-C456EC9D1A0D}
+	EndGlobalSection
+EndGlobal

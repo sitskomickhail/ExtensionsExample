@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\bin\Debug\ViewportAdornment.dll
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\bin\Debug\ViewportAdornment.pdb
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\bin\Debug\ViewportAdornment.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\bin\Debug\ViewportAdornment.vsix
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\bin\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\_EmptyResource.resources
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.dll
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.pdb
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\ViewportAdornment.latest.pkgdef
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\extension.vsixmanifest
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\files.json
+C:\Users\user\source\repos\HelloWorldExtension\ViewportAdornment\obj\Debug\createTemplateManifests.cache
