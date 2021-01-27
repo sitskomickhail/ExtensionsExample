@@ -1,9 +1,8 @@
-﻿using Microsoft.VisualStudio.Text;
+﻿using GetRowChangedPosition.Services;
 using Microsoft.VisualStudio.Text.Editor;
 using Microsoft.VisualStudio.Text.Formatting;
 using System;
-using System.Windows.Controls;
-using System.Windows.Media;
+using System.Linq;
 
 namespace GetRowChangedPosition
 {
@@ -47,21 +46,23 @@ namespace GetRowChangedPosition
 
         private void CreateVisuals(ITextViewLine line)
         {
-            IWpfTextViewLineCollection textViewLines = this.view.TextViewLines;
-            
             int linePosition = 1;
-            
+
             foreach (var snapshotLine in view.TextSnapshot.Lines)
             {
                 if (line.Start.Position >= snapshotLine.Start.Position && line.End.Position <= snapshotLine.End.Position)
                 {
                     break;
                 }
-                
+
                 linePosition++;
             }
 
-            linePosition = linePosition;
+            RowTrackerService.SetValue(new Models.RowInfoModel()
+            {
+                Number = linePosition,
+                Text = view.TextSnapshot.Lines.ToList()[linePosition - 1].GetText()
+            });
         }
     }
 }

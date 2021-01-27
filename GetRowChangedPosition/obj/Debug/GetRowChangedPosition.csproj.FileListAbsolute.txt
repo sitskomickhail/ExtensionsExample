@@ -20,3 +20,11 @@ C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\V
 C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\resources.json
 C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\ctoFiles.json
 C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\mergeCto.cache
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\ToolCommand\ToolSelectedRowControl.baml
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\ToolCommand\ToolSelectedRowControl.g.cs
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\GetRowChangedPosition_MarkupCompile.cache
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\GetRowChangedPosition.g.resources
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\bin\Debug\Ninject.dll
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\GetRowChangedPosition.csproj.CopyComplete
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\HelloWorldExtension\GetRowChangedPosition\obj\Debug\GetRowChangedPosition_MarkupCompile.lref

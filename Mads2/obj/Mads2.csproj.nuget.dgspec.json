@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj": {}
+    "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj": {
+    "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj",
-        "projectName": "GetRowChangedPosition",
-        "projectPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj",
+        "projectName": "Mads2",
+        "projectPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -42,10 +42,6 @@
               "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "target": "Package",
               "version": "[16.0.206, )"
-            },
-            "Ninject": {
-              "target": "Package",
-              "version": "[3.3.4, )"
             }
           }
         }

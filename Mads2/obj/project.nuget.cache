@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Z6K3AVdEyOOtNVSsrSTQb5LpyCciWE/289jiXThMy7IodWqUMLaJhgWb6I0ODx4oP836zb1jYgR6ekPDMeKBg==",
+  "dgSpecHash": "GhLVyuTVWE8yJ+Ete6KyR3FRXSMnRwyvH4JvjWkcyXu/3gdFK7VrMBSmC5S8pa0tZZEKsJFBbWRmpgjkFZuq0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\envdte\\8.0.2\\envdte.8.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\envdte100\\10.0.3\\envdte100.10.0.3.nupkg.sha512",
@@ -79,7 +79,6 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\microsoft.vssdk.buildtools.16.8.3038.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\stdole\\7.0.3302\\stdole.7.0.3302.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\streamjsonrpc\\1.5.43\\streamjsonrpc.1.5.43.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",

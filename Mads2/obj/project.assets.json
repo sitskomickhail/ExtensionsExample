@@ -963,15 +963,6 @@
           "lib/net45/_._": {}
         }
       },
-      "Ninject/3.3.4": {
-        "type": "package",
-        "compile": {
-          "lib/net45/Ninject.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Ninject.dll": {}
-        }
-      },
       "stdole/7.0.3302": {
         "type": "package",
         "compile": {
@@ -2220,15 +2211,6 @@
           "lib/net45/_._": {}
         }
       },
-      "Ninject/3.3.4": {
-        "type": "package",
-        "compile": {
-          "lib/net45/Ninject.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Ninject.dll": {}
-        }
-      },
       "stdole/7.0.3302": {
         "type": "package",
         "compile": {
@@ -3453,15 +3435,6 @@
           "lib/net45/_._": {}
         }
       },
-      "Ninject/3.3.4": {
-        "type": "package",
-        "compile": {
-          "lib/net45/Ninject.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Ninject.dll": {}
-        }
-      },
       "stdole/7.0.3302": {
         "type": "package",
         "compile": {
@@ -4684,15 +4657,6 @@
         },
         "runtime": {
           "lib/net45/_._": {}
-        }
-      },
-      "Ninject/3.3.4": {
-        "type": "package",
-        "compile": {
-          "lib/net45/Ninject.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Ninject.dll": {}
         }
       },
       "stdole/7.0.3302": {
@@ -6230,21 +6194,6 @@
         "tools/install.ps1"
       ]
     },
-    "Ninject/3.3.4": {
-      "sha512": "CmbWW97FfJuh4LEOVZM/spqXl4KAulRUjqeMwRd5J9rDMQArmIYaDMU3pyzXXHT062tbF0OPIMwI7tSOtprPfg==",
-      "type": "package",
-      "path": "ninject/3.3.4",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/Ninject.dll",
-        "lib/net45/Ninject.xml",
-        "lib/netstandard2.0/Ninject.dll",
-        "lib/netstandard2.0/Ninject.xml",
-        "ninject.3.3.4.nupkg.sha512",
-        "ninject.nuspec"
-      ]
-    },
     "stdole/7.0.3302": {
       "sha512": "2314LjTYA+nRknLNzqKY/qrJH21jKhEp/bMTOCTPyidoVYI+3EtyI73Y91NOzCFP2OgzeYnk+uKbTWWuGIMLjA==",
       "type": "package",
@@ -7026,8 +6975,7 @@
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "Microsoft.VSSDK.BuildTools >= 16.8.3038",
-      "Microsoft.VisualStudio.SDK >= 16.0.206",
-      "Ninject >= 3.3.4"
+      "Microsoft.VisualStudio.SDK >= 16.0.206"
     ]
   },
   "packageFolders": {
@@ -7036,11 +6984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj",
-      "projectName": "GetRowChangedPosition",
-      "projectPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\GetRowChangedPosition.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj",
+      "projectName": "Mads2",
+      "projectPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\Mads2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\GetRowChangedPosition\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\HelloWorldExtension\\Mads2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -7071,10 +7019,6 @@
             "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "target": "Package",
             "version": "[16.0.206, )"
-          },
-          "Ninject": {
-            "target": "Package",
-            "version": "[3.3.4, )"
           }
         }
       }

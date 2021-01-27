@@ -1,27 +1,36 @@
-﻿using GetRowChangedPosition.Services;
-using GetRowChangedPosition.Services.Interfaces;
-using GetRowChangedPosition.ToolCommand;
-using Microsoft.VisualStudio.Shell;
-using Ninject;
-using Ninject.Modules;
+﻿using Microsoft.VisualStudio.Shell;
 using System;
-using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Threading;
 using Task = System.Threading.Tasks.Task;
 
-namespace GetRowChangedPosition
+namespace Mads2
 {
+    /// <summary>
+    /// This is the class that implements the package exposed by this assembly.
+    /// </summary>
+    /// <remarks>
+    /// <para>
+    /// The minimum requirement for a class to be considered a valid package for Visual Studio
+    /// is to implement the IVsPackage interface and register itself with the shell.
+    /// This package uses the helper classes defined inside the Managed Package Framework (MPF)
+    /// to do it: it derives from the Package class that provides the implementation of the
+    /// IVsPackage interface and uses the registration attributes defined in the framework to
+    /// register itself and its components with the shell. These attributes tell the pkgdef creation
+    /// utility what data to put into .pkgdef file.
+    /// </para>
+    /// <para>
+    /// To get loaded into VS, the package must be referred by &lt;Asset Type="Microsoft.VisualStudio.VsPackage" ...&gt; in .vsixmanifest file.
+    /// </para>
+    /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [Guid(GetRowChangedPositionPackage.PackageGuidString)]
-    [ProvideMenuResource("Menus.ctmenu", 1)]
-    [ProvideToolWindow(typeof(GetRowChangedPosition.ToolCommand.ToolSelectedRow))]
-    public sealed class GetRowChangedPositionPackage : AsyncPackage
+    [Guid(Mads2Package.PackageGuidString)]
+    public sealed class Mads2Package : AsyncPackage
     {
         /// <summary>
-        /// GetRowChangedPositionPackage GUID string.
+        /// Mads2Package GUID string.
         /// </summary>
-        public const string PackageGuidString = "25a0950a-545b-491e-8ac4-e125fea3325b";
+        public const string PackageGuidString = "71a20fec-cbb6-4a4d-83d5-3f942814d365";
 
         #region Package Members
 
@@ -34,27 +43,11 @@ namespace GetRowChangedPosition
         /// <returns>A task representing the async work of package initialization, or an already completed task if there is none. Do not return null from this method.</returns>
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
         {
-            //var kernel = new StandardKernel();
-            //kernel.Load(Assembly.GetExecutingAssembly());
-
-
-
             // When initialized asynchronously, the current thread may be a background thread at this point.
             // Do any initialization that requires the UI thread after switching to the UI thread.
             await this.JoinableTaskFactory.SwitchToMainThreadAsync(cancellationToken);
-            await GetRowChangedPosition.ToolCommand.ToolSelectedRowCommand.InitializeAsync(this);
         }
 
         #endregion
     }
-
-    //public class Bindings : NinjectModule
-    //{
-    //    public override void Load()
-    //    {
-    //        Bind<IRowTrackerService>().To<RowTrackerService>().InSingletonScope();
-    //        Bind<RowAnalyzer>().ToSelf();
-    //        Bind<ToolSelectedRowControl>().ToSelf();
-    //    }
-    //}
 }
